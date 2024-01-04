@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/ayush.jpg.jpg";
 
-const imageAltText = "Ayush pandey devloper. this is a background photo of mine standing and having face on right side ";
+const imageAltText = "Ayush pandey devloper. this is a background photo of mine standing and having face on right sides ";
 
 const Home = ({ name, title }) => {
   return (

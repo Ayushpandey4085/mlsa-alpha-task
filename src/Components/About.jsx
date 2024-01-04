@@ -24,7 +24,7 @@ const imageAltText = "wood background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a Software & SQL Developer and a final year student. I consider myself highly inquisitive about Networking and IOT. I am looking for a dynamic firm that provides scope to enhance my knowledge. I love to be around people who talk about ideas and technologies. I would love to work with you. Lets Connect!.";
+  "I am a Software  Developer and a final year student. I consider myself highly inquisitive about Networking and IOT. I am looking for a dynamic firm that provides scope to enhance my knowledge. I love to be around people who talk about ideas and technologies. I would love to work with you. Lets Connect!.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

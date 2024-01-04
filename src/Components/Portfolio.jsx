@@ -48,7 +48,7 @@ const projectList = [
   
   },
   {
-    title: "AGROMINDS -(Website)",
+    title: "AGROMINDS(Website)",
     description:
       "used for project related that show full description of that project its uses & friendly user interface for buying the product .",
     
