@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/wood.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "wood background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a Software & SQL Developer and a final year student. I consider myself highly inquisitive about Networking and IOT. I am looking for a dynamic firm that provides scope to enhance my knowledge. I love to be around people who talk about ideas and technologies. I would love to work with you. Lets Connect!.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,12 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "IOT DEVELOPER",
+  "NETWORKING",
+  "AUTOMATION",
+  "DSA",
+  "OOPS",
+  "C++",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "With a passion for empowering students to achieve their goals and aspirations through technology, I am a Student Ambassador at Microsoft and a Management Lead at GDSC Arya, a community of developers, designers, and innovators. In these roles, I promote and facilitate learning opportunities for students in various technologies and platforms, such as Azure, GitHub, and Power Platform, and I lead a team of 15 members in planning, organizing, and executing events, workshops, and hackathons. I have successfully delivered multiple sessions on topics such as IoT, networking, and cloud computing, reaching over 500 participants , I also have experience as a C++ Developer at Happieloop, where I worked on a project involving data processing and analysis for a large client. I used SQL and TCP to handle and manipulate large volumes of data, and I applied my knowledge of network architecture and LAN to ensure optimal performance and security. I completed the project within the deadline and received positive feedback from my manager. I am a final year student pursuing my BTech in Computer Science at Arya College of Engineering and IT, where I have maintained a high academic record and earned multiple certifications, such as Emertxe Certified Embedded Professional, AMCAT Certified Data Processing Specialist, and SQL (Basic) by HackerRank. I am looking for a dynamic and innovative organization that provides scope to enhance my knowledge and skills in networking and IoT, and that values collaboration, growth, and impact. I love to be around people who are passionate, creative, and driven..";
 
 const About = () => {
   return (

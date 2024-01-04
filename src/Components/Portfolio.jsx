@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolioayush.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AGROMINDS",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It Is a plant monitoring solution that revolutionizes the way plant owners track their plant's health and performance . Our platform offers a one click solution that captures real-time data on crucial parameters like temperature, humidity, soil moisture, light levels , nutritional values and PH values . It then seamlessly analyzes this data and presents actionable insights and recommendations for optimal plant health. What sets us apart is our user-friendly interface, reliability, and scalability, making it easy for plant owners of all backgrounds to benefit from our solution . By addressing technical challenges, educating potential customers, and emphasizing data security, we're poised to lead the market in plant monitoring services. With our innovative approach, we aim to become the go-to solution provider for plant owners in various industries . Join us in revolutionizing the way we monitor plant performance and unlock the full potential of your plants. Together, we'll cultivate a greener, more efficient future..",
+    
   },
   {
-    title: "Web Development for Beginners",
+    title: "BOTANICAL SYMPHONY",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Botanical symphony is an innovative project that explores the musical potential of plant veins. By transforming the structure of leaves into musical notes. we aim to create a unique and harmonious experience that merges art and science.",
   },
   {
-    title: "My Resume Site",
+    title: "AGROCARE",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "APP FOR USER TO DETECT PEST INFESTICATION DISEASE IN PlANTS ",
+  
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "AGROMINDS -(Website)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "used for project related that show full description of that project its uses & friendly user interface for buying the product .",
+    
   },
 ];
 
